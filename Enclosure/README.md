@@ -17,7 +17,7 @@ Print the gasket model in a flexible filament such as TPU:
 
 * [RocketScream_MiniUltraLoRaWAN_gasket.stl](RocketScream_MiniUltraLoRaWAN_gasket.stl)
 
-![Enclosure_with_gasket](https://github.com/rocketscream/MiniUltraLoRaWAN/master/Enclosure/explosion_gasket.png?raw=true)
+![Enclosure_with_gasket](https://github.com/rocketscream/MiniUltraLoRaWAN/blob/master/Enclosure/explosion_gasket.png?raw=true)
 
 ## Indoor mounting
 
@@ -26,7 +26,7 @@ For mounting indoors, print the following files in PETG:
 * [RocketScream_MiniUltraLoRaWAN_bottom_-_no_gasket.stl](RocketScream_MiniUltraLoRaWAN_bottom_-_no_gasket.stl)
 * [RocketScream_MiniUltraLoRaWAN_top.stl](RocketScream_MiniUltraLoRaWAN_top.stl)
 
-![Enclosure_without_gasket](https://github.com/rocketscream/MiniUltraLoRaWAN/master/Enclosure/explosion_no_gasket.png?raw=true)
+![Enclosure_without_gasket](https://github.com/rocketscream/MiniUltraLoRaWAN/blob/master/Enclosure/explosion_no_gasket.png)
 
 ## Mounting clip
 
